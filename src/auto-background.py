@@ -1,3 +1,4 @@
+#!/bin/python
 import sys, utils, time
 from defaultModule import DefaultModule
 from config import *
